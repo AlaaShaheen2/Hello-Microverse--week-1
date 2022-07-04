@@ -32,11 +32,6 @@ Authors
     Twitter: @twitterhandle
     LinkedIn: Alaa Shaheen
 
-👤 Author2
-
-    GitHub: @githubhandle
-    Twitter: @twitterhandle
-    LinkedIn: LinkedIn
 
 🤝 Contributing
 

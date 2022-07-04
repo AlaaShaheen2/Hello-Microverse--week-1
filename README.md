@@ -1,9 +1,10 @@
 
-Project Name
+Project Name Hello Microverse
 
     Description the project.
+    create a html & css & linters
 
-Built With
+Built With Alaa Shaheen
 
     Major languages
     Frameworks
@@ -27,9 +28,9 @@ Authors
 
 👤 Author1
 
-    GitHub: @githubhandle
+    GitHub: @AlaaShaheen2 
     Twitter: @twitterhandle
-    LinkedIn: LinkedIn
+    LinkedIn: Alaa Shaheen
 
 👤 Author2
 
